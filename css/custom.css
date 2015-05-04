@@ -16,6 +16,12 @@ ul.nav{
 	background-image: url(../images/hero_image.jpg);
 	color: white;
 }
+
+.modal-content {
+	margin-top: 15px;
+  	margin-bottom: 10px;
+}
+}
 .jumbotron h1{
 	margin-top: 0px;
 	margin-bottom: 50px;
