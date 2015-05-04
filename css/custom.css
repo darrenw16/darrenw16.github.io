@@ -61,6 +61,12 @@ ul.nav{
   	width: 160px;
   	margin-top: 15px;
 }
+
+#backtotop {
+	position: fixed;
+  	bottom: 20px;
+  	right: 10px;
+}
 a:hover{
 	color: red;
 	text-decoration: none;
