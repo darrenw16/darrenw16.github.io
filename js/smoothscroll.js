@@ -38,7 +38,7 @@ $("a.navbar-brand[href^='#']").on('click', function(e) {
 
 });
 
-$("a.backtotop[href^='#']").on('click', function(e) {
+$("#backtotop a[href^='#']").on('click', function(e) {
 
    // prevent default anchor click behavior
    e.preventDefault();
