@@ -22,7 +22,7 @@ ul.nav{
   	margin-bottom: 10px;
 }
 
-.modal content button.close{
+.modal-content button.close{
   	position: absolute;
 	margin-top: 5px;
 	right: 5px;
