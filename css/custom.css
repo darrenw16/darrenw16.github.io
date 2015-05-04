@@ -67,6 +67,9 @@ ul.nav{
   	bottom: 20px;
   	right: 10px;
 }
+#backtotop a {
+	color: #333;
+}
 a:hover{
 	color: red;
 	text-decoration: none;
