@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29-Jul-2015, 12:09:29
+    Author     : Peter Vargovcik
+*/
+
+.errMessageHeadder{
+    font-weight: 900!important;
+    color: red;
+    margin: 30px 20px 30px;
+    /*text-shadow:0px 0px 5px white;*/
+}
+
+.errMessageTitle{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.errMessageParagraph{
+    font-size: 150%!important;
+    line-height: 120%!important;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;    
+}
+
+.errMessageParagraphEmailSpan{
+    margin-top: 10px;
+}
+
+.errMessagePoweredBy{
+    float:right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

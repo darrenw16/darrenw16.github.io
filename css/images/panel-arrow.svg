@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="24px"
+	 viewBox="0 0 16 24" style="enable-background:new 0 0 16 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#58595B;}
+	.st2{fill:#FFFFFF;stroke:#58595B;stroke-width:0.25;stroke-linejoin:round;stroke-miterlimit:1;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="23.25" width="15.491" x="-1.745" y="-17.625" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<g>
+		<path class="st0" d="M4.595,20.348c-0.046,0-0.088-0.025-0.11-0.065c-0.021-0.041-0.019-0.09,0.006-0.129L9.893,12L4.491,3.846
+			C4.465,3.808,4.463,3.759,4.484,3.718c0.022-0.041,0.064-0.066,0.11-0.066h1.362c0.042,0,0.081,0.021,0.104,0.056l5.449,8.223
+			c0.027,0.042,0.027,0.096,0,0.138l-5.449,8.223c-0.023,0.034-0.062,0.056-0.104,0.056H4.595z"/>
+		<path class="st1" d="M5.957,3.777L11.405,12l-5.449,8.222H4.595L10.043,12L4.595,3.777H5.957 M5.957,3.527H4.595
+			c-0.092,0-0.177,0.051-0.22,0.132C4.331,3.74,4.335,3.839,4.386,3.916L9.743,12l-5.357,8.084
+			c-0.051,0.077-0.055,0.175-0.012,0.256c0.044,0.081,0.128,0.132,0.22,0.132h1.362c0.084,0,0.162-0.042,0.208-0.112l5.449-8.222
+			c0.055-0.084,0.055-0.192,0-0.276L6.165,3.639C6.119,3.569,6.041,3.527,5.957,3.527L5.957,3.527z"/>
+	</g>
+	<path class="st2" d="M14.532,2.143v19.714H1.468V2.143H14.532 M15.62,0.5H0.38v23H15.62V0.5L15.62,0.5z"/>
+</g>
+</svg>
