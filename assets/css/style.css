@@ -355,15 +355,6 @@ textarea.form-control {
 	padding: 0;
 }
 
-#pageid{
-	padding-top: 15px;
-}
-
-.thumbnail{
-	border: 0px;
-}
-
-
 .home-overlay {
     background-color: rgba(44, 62, 80, 0.3);
     background-image: url("../images/pattern.png");
